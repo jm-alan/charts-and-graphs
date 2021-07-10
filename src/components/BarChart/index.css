@@ -1,0 +1,12 @@
+.bar-box {
+  display: flex;
+  height: 500px;
+  width: 500px;
+  border: 1px solid black;
+}
+
+.bar-scale {
+  width: 100%;
+  height: 1px;
+  border: 1px solid grey;
+}
